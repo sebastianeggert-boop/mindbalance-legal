@@ -30,8 +30,7 @@ Op'n Hegbarg 10
 21493 Talkau
 Germany
 
-E-mail (general): kontakt@rooftopentertainment.de
-E-mail (data protection): datenschutz@rooftopentertainment.de
+E-mail: rooftop-entertainment@mail.de (data protection requests please with subject „[Datenschutz]")
 
 Provider responsible under the German Telemediengesetz (TMG § 5) and the Digitale-Dienste-Gesetz (DDG): Sebastian Eggert, address as above.
 
@@ -201,7 +200,7 @@ If you are a consumer (§ 13 BGB / Art. 9 ff. of the EU Consumer Rights Directiv
 
 **Right of withdrawal:** You have the right to withdraw from the Premium contract within fourteen days without giving any reason. The withdrawal period is fourteen days from the date of contract conclusion (= purchase confirmation by Google Play).
 
-**Exercising the right:** To exercise the withdrawal, you must inform the Provider by means of an unambiguous statement (e.g. an e-mail to `kontakt@rooftopentertainment.de`). You may use the model withdrawal form below, but it is not mandatory. You may also process the withdrawal directly via Google Play (refund request).
+**Exercising the right:** To exercise the withdrawal, you must inform the Provider by means of an unambiguous statement (e.g. an e-mail to `rooftop-entertainment@mail.de`). You may use the model withdrawal form below, but it is not mandatory. You may also process the withdrawal directly via Google Play (refund request).
 
 **Effects of withdrawal:** If you withdraw from the contract, you will receive a refund of all payments received from you, without undue delay and at the latest within fourteen days from the day on which we receive notification of your decision to withdraw, or Google Play receives the refund request. Refunds will be made using the same means of payment used for the original transaction.
 
@@ -219,7 +218,7 @@ Independently, you may always send refund requests to Google Play, which often g
 
 ### 7.3 Model Withdrawal Form
 
-If you wish to withdraw from the contract, you may complete this form and send it to `kontakt@rooftopentertainment.de`:
+If you wish to withdraw from the contract, you may complete this form and send it to `rooftop-entertainment@mail.de`:
 
 ```
 To:
@@ -227,7 +226,7 @@ Sebastian Eggert
 Rooftop Entertainment
 Op'n Hegbarg 10
 21493 Talkau, Germany
-E-mail: kontakt@rooftopentertainment.de
+E-mail: rooftop-entertainment@mail.de
 
 I/We (*) hereby give notice that I/we (*) withdraw from my/our (*)
 contract on the purchase of the following Premium feature(s) /
@@ -389,7 +388,7 @@ This limitation does not apply to the cases of § 13.1 (intent, gross negligence
 
 ## § 14 Data Protection
 
-The processing of personal data is conducted exclusively in accordance with the [Privacy Policy](./privacy-policy-en.md), which is part of these Terms. You may exercise all rights to which you are entitled under Art. 15 to 22 GDPR (access, rectification, erasure, restriction, data portability, objection, withdrawal of consent) directly in the App or by e-mail to `datenschutz@rooftopentertainment.de`.
+The processing of personal data is conducted exclusively in accordance with the [Privacy Policy](./privacy-policy-en.md), which is part of these Terms. You may exercise all rights to which you are entitled under Art. 15 to 22 GDPR (access, rectification, erasure, restriction, data portability, objection, withdrawal of consent) directly in the App or by e-mail to `rooftop-entertainment@mail.de`.
 
 In particular, you can have all local App data removed under `Profile → Data protection settings → "Delete all my data"`. Technical details: see Privacy Policy, § 4.1.
 
@@ -435,7 +434,7 @@ For consumers, statutory jurisdiction applies. For business users (e.g. future B
 
 ### 18.1 Online Dispute Resolution (EU)
 
-The European Commission provides an online dispute resolution platform (ODR) at https://ec.europa.eu/consumers/odr/. Our e-mail address for consumer enquiries is `kontakt@rooftopentertainment.de`.
+The European Commission provides an online dispute resolution platform (ODR) at https://ec.europa.eu/consumers/odr/. Our e-mail address for consumer enquiries is `rooftop-entertainment@mail.de`.
 
 ### 18.2 Consumer Arbitration
 

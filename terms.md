@@ -30,8 +30,7 @@ Op'n Hegbarg 10
 21493 Talkau
 Deutschland
 
-E-Mail (allgemein): kontakt@rooftopentertainment.de
-E-Mail (Datenschutz): datenschutz@rooftopentertainment.de
+E-Mail: rooftop-entertainment@mail.de (Datenschutzanfragen bitte mit Betreff „[Datenschutz]")
 
 Verantwortlich im Sinne des Telemediengesetzes (TMG § 5) und Diensteanbieter im Sinne des Digitale-Dienste-Gesetzes (DDG): Sebastian Eggert, Anschrift wie oben.
 
@@ -201,7 +200,7 @@ Wenn du Verbraucher bist (§ 13 BGB), steht dir bei kostenpflichtigen Premium-Ve
 
 **Widerrufsrecht:** Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gruenden den Premium-Vertrag zu widerrufen. Die Widerrufsfrist betraegt vierzehn Tage ab dem Tag des Vertragsabschlusses (= Kauf-Bestaetigung durch Google Play).
 
-**Ausuebung des Widerrufs:** Um den Widerruf auszuueben, musst du den Anbieter mittels einer eindeutigen Erklaerung (z.B. ein per E-Mail an `kontakt@rooftopentertainment.de` versendetes Schreiben) ueber deinen Entschluss informieren. Du kannst dafuer das nachstehende Muster-Widerrufsformular verwenden, das aber nicht vorgeschrieben ist. Zusaetzlich kannst du den Widerruf auch direkt ueber Google Play (Erstattungs-Anfrage) abwickeln.
+**Ausuebung des Widerrufs:** Um den Widerruf auszuueben, musst du den Anbieter mittels einer eindeutigen Erklaerung (z.B. ein per E-Mail an `rooftop-entertainment@mail.de` versendetes Schreiben) ueber deinen Entschluss informieren. Du kannst dafuer das nachstehende Muster-Widerrufsformular verwenden, das aber nicht vorgeschrieben ist. Zusaetzlich kannst du den Widerruf auch direkt ueber Google Play (Erstattungs-Anfrage) abwickeln.
 
 **Folgen des Widerrufs:** Wenn du den Vertrag widerrufst, erhaeltst du alle Zahlungen, die wir von dir erhalten haben, unverzueglich und spaetestens binnen vierzehn Tagen ab dem Tag zurueck, an dem die Widerrufs-Erklaerung uns oder Google Play zugegangen ist. Die Rueckzahlung erfolgt ueber das Zahlungsmittel, das du fuer die ursprungliche Transaktion eingesetzt hast.
 
@@ -219,7 +218,7 @@ Unabhaengig davon kannst du Refund-Anfragen an Google Play richten, das in viele
 
 ### 7.3 Muster-Widerrufsformular
 
-Wenn du den Vertrag widerrufen moechtest, kannst du dieses Formular ausfuellen und an `kontakt@rooftopentertainment.de` senden:
+Wenn du den Vertrag widerrufen moechtest, kannst du dieses Formular ausfuellen und an `rooftop-entertainment@mail.de` senden:
 
 ```
 An:
@@ -227,7 +226,7 @@ Sebastian Eggert
 Rooftop Entertainment
 Op'n Hegbarg 10
 21493 Talkau
-E-Mail: kontakt@rooftopentertainment.de
+E-Mail: rooftop-entertainment@mail.de
 
 Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag
 ueber den Kauf folgender Premium-Funktionen / das folgende Abonnement:
@@ -388,7 +387,7 @@ Ausgenommen von dieser Haftungs-Begrenzung sind Faelle des § 13.1 (Vorsatz, gro
 
 ## § 14 Datenschutz
 
-Die Verarbeitung personenbezogener Daten erfolgt ausschliesslich gemaess der [Datenschutzerklaerung](./privacy-policy.md), die Bestandteil dieser AGB ist. Du kannst saemtliche dir nach Art. 15 bis 22 DSGVO zustehenden Rechte (Auskunft, Berichtigung, Loeschung, Einschraenkung, Datenportabilitaet, Widerspruch, Widerruf von Einwilligungen) direkt in der App ausueben oder per E-Mail an `datenschutz@rooftopentertainment.de` geltend machen.
+Die Verarbeitung personenbezogener Daten erfolgt ausschliesslich gemaess der [Datenschutzerklaerung](./privacy-policy.md), die Bestandteil dieser AGB ist. Du kannst saemtliche dir nach Art. 15 bis 22 DSGVO zustehenden Rechte (Auskunft, Berichtigung, Loeschung, Einschraenkung, Datenportabilitaet, Widerspruch, Widerruf von Einwilligungen) direkt in der App ausueben oder per E-Mail an `rooftop-entertainment@mail.de` geltend machen.
 
 Insbesondere kannst du in `Profil → Datenschutz-Einstellungen → „Alle meine Daten loeschen"` alle lokalen Daten der App entfernen lassen. Details zum technischen Vorgang siehe Datenschutzerklaerung, § 4.1.
 
@@ -434,7 +433,7 @@ Fuer Verbraucher gilt der gesetzliche Gerichtsstand. Fuer Unternehmer (z.B. spae
 
 ### 18.1 Online-Streitbeilegung (EU)
 
-Die Europaeische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die du unter https://ec.europa.eu/consumers/odr/ erreichen kannst. Unsere E-Mail-Adresse fuer Verbraucher-Anfragen ist `kontakt@rooftopentertainment.de`.
+Die Europaeische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die du unter https://ec.europa.eu/consumers/odr/ erreichen kannst. Unsere E-Mail-Adresse fuer Verbraucher-Anfragen ist `rooftop-entertainment@mail.de`.
 
 ### 18.2 Verbraucherschlichtungsstelle
 

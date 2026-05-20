@@ -83,7 +83,7 @@ The visibility logic is enforced in code via `ConsentType.isFeatureImplemented()
 - **Right to rectification** (Art. 16): You can correct inaccurate data yourself (e.g. delete check-ins and create new ones).
 - **Right to erasure** (Art. 17): **Available directly in the app** via `Profile → Privacy Settings → "Delete all my data"`. Upon confirmation, all local data (see §2.1) is removed and the onboarding flow restarts. Details on the technical implementation in §4.1.
 - **Right to restriction of processing** (Art. 18): Individually deactivable via consent toggles in `Profile → Privacy Settings`. Upon revocation, the data belonging to the respective consent is additionally deleted.
-- **Right to data portability** (Art. 20): On request by email to `datenschutz@rooftopentertainment.de`, you receive a machine-readable file (JSON format) containing all locally stored data (see §2.1) for download. Processing time typically within 14 days, in any case within the statutory deadline of one month (Art. 12(3) GDPR). An automatic in-app export function is planned for a future version.
+- **Right to data portability** (Art. 20): On request by email to `rooftop-entertainment@mail.de`, you receive a machine-readable file (JSON format) containing all locally stored data (see §2.1) for download. Processing time typically within 14 days, in any case within the statutory deadline of one month (Art. 12(3) GDPR). An automatic in-app export function is planned for a future version.
 - **Right to withdraw consent** (Art. 7(3)): Consent can be withdrawn at any time (see Art. 18 above).
 
 ### 4.1 How "Delete all my data" works technically
@@ -127,7 +127,7 @@ Changes to this privacy policy will be displayed in the app. For material change
 
 Sebastian Eggert
 Rooftop Entertainment
-Email: datenschutz@rooftopentertainment.de
+Email: rooftop-entertainment@mail.de
 
 ## 10. Versioning and Status
 
